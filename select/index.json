@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヒーロースーツ",
+  "base_artist": "back number",
+  "createdAt": "2026-01-12T11:11:11.395656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒーロースーツ",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_ヒーロースーツ_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒーロースーツ - Hero Suit",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_ヒーロースーツ_-_Hero_Suit_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒーロースーツ",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_ヒーロースーツ_back_number.txt"
+    }
+  ]
+}
